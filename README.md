@@ -1,2 +1,40 @@
-# Ecommerce-Website-Spring-Boot-
-This project is a full-stack Ecommerce web application developed using Spring Boot 3.0 and Spring Security 6.0 for backend and HTML, CSS, Bootstrap, and Thymeleaf for frontend. The system allows users to browse products, register/login securely, add items to cart, and place orders.
+# 🛒 Ecommerce Website – Spring Boot Project
+
+A full-stack Ecommerce web application built using **Spring Boot 3.0**, **Spring Security 6.0**, **Thymeleaf**, and **MySQL**.  
+The application provides secure user authentication, product browsing, cart management, and order processing.
+
+---
+
+## 🚀 Features
+
+- 🔐 User Registration & Login (Spring Security)
+- 👤 Role Based Access (Admin / User)
+- 🛍️ Product Listing & Details Page
+- 🧺 Add to Cart Functionality
+- 📦 Order Placement
+- 🛠️ Admin Product Management
+- 📱 Responsive UI using Bootstrap
+- 🗄️ MySQL Database Integration
+
+---
+
+## 🧰 Tech Stack
+
+### Backend
+- Spring Boot 3.0
+- Spring Security 6.0
+- Spring MVC
+- Spring Data JPA
+
+### Frontend
+- HTML
+- CSS
+- Bootstrap
+- Thymeleaf
+
+### Database
+- MySQL
+
+### Tools
+- STS (Spring Tool Suite)
+- Maven
